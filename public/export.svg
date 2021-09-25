@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52mm"
+   height="37mm"
+   viewBox="0 0 52 37"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="export.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="5.770777"
+     inkscape:cx="98.34031"
+     inkscape:cy="69.92126"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1764" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="eye-shadow"
+     style="display:inline">
+    <ellipse
+       style="fill:#333333;stroke-width:0.295976"
+       id="path1945"
+       cx="28.383137"
+       cy="18.521889"
+       rx="9.6116962"
+       ry="9.5744677" />
+    <ellipse
+       style="fill:#333333;stroke-width:0.295976"
+       id="path1945-7"
+       cx="16.494106"
+       cy="18.521889"
+       rx="9.6116962"
+       ry="9.5744677" />
+  </g>
+  <g
+     inkscape:label="main"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path1491"
+       cx="16.622816"
+       cy="17.922998"
+       r="8.4529819" />
+    <circle
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path1491-3"
+       cx="28.262026"
+       cy="17.922998"
+       r="8.4529819" />
+    <ellipse
+       style="fill:#333333;stroke-width:0.305604"
+       id="path2117"
+       cx="16.610163"
+       cy="15.06691"
+       rx="4.7506976"
+       ry="4.5144114" />
+    <ellipse
+       style="fill:#333333;stroke-width:0.305604"
+       id="path2117-9"
+       cx="28.437761"
+       cy="15.06691"
+       rx="4.7506976"
+       ry="4.5144114" />
+  </g>
+</svg>
